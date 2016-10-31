@@ -18,3 +18,5 @@ https://github.com/ethereum/EIPs/issues/20
 ###KyotoToken
 
 This is the Kyoto crowdsale contract responsible for token creation.
+
+https://github.com/kyotoapp/token/blob/master/contracts/KyotoToken.sol
